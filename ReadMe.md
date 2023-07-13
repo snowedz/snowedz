@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my discord instant button bot.<br>🌱 I’m currently learning HTML, JS, CSS and improving my Python skills<br>💬 Ask me about how to solve some The huxley's problems, or my discord bot, or even my PDF Generator<br>⚡ Fun fact my mind works with meme/music triggers and it's cool but at the same time is kinda of a pain in the butt when you have to explain everything that comes out of your mouth
+🔭 I’m currently working on my discord instant button bot.<br>🌱 I’m currently learning HTML, JS, CSS and improving my Python skills<br>💬 Ask me about how to solve some The huxley's problems, or my discord bot, or even my PDF Generator<br>
 
 
 ## 🌐 Socials:
